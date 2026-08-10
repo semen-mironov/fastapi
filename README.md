@@ -1,7 +1,2 @@
 # fastapi
-# fastapi
-# fastapi
-# fastapi
-# fastapi
-# fastapi
-# fastapi
+# my fastapi practice
